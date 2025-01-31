@@ -14,6 +14,10 @@ This is a mobile application built using **Expo** to display available products 
 This app interacts with the Fake Store API for product data and authentication.
 https://fakestoreapi.com/docs#:~:text=Show%20output-,Login,-User%20login
 
+<img width="419" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8c947736-5e3b-4536-9791-6b6863984963" />
+<img width="409" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ef4bcfa7-4e68-4dae-8102-1e5f139e31ba" />
+<img width="405" alt="Screenshot 3" src="https://github.com/user-attachments/assets/884a2055-69d1-4507-8f64-2c6e7d1bddb1" />
+
 ## Get started
 
 1. Install dependencies
